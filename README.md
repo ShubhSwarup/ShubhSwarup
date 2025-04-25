@@ -5,8 +5,8 @@
 
 🌟 Passionate about building dynamic web applications and scalable backend systems.  
 🔭 Currently working with **MERN Stack** (MongoDB, Express, React, Node.js).  
-🌱 Continuously learning modern tech — from **Next.js** to **Cloud Deployments**.  
-💬 Ask me about: **Full-Stack Development**, **REST APIs**, **MongoDB**, **React Hooks**.  
+🌱 Continuously learning modern tech — from **Cloud Deployments**.  
+💬 Ask me about: **Full-Stack Development**, **REST APIs**, **MongoDB**, **React Hooks**, **MobX**.  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shubham-swaroop-bba883207/)  
 ⚡ Fun fact: I enjoy turning ☕ into scalable web apps!
 
